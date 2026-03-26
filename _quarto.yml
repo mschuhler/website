@@ -2,7 +2,7 @@ project:
   type: website
 
 website:
-  title: "Your Name"
+  title: "Michael Schuhler"
   navbar:
     left:
       - href: index.qmd
