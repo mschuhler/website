@@ -1,6 +1,11 @@
 project:
   type: website
 
+format:
+  html:
+    theme: lux
+    css: styles.css
+
 website:
   title: "Michael Schuhler"
   navbar:
@@ -15,7 +20,4 @@ website:
       - href: contact.qmd
         text: Contact Me
 
-format:
-  html:
-    theme: lux
-    css: styles.css
+
