@@ -7,10 +7,13 @@ website:
     left:
       - href: index.qmd
         text: About Me
-      - text: Projects
-      - text: Resume/CV
+      - href: projects.qmd
+        text: Projects
+      - href: resume.qmd
+        text: Resume/CV
     right:
-      - text: Contact Me
+      - href: contact.qmd
+        text: Contact Me
 
 format:
   html:
