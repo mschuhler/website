@@ -1,5 +1,10 @@
 ---
 title: "Contact Me"
+
+format:
+  html:
+    theme: lux
+    css: styles.css
 ---
 
 Test page for contact information.

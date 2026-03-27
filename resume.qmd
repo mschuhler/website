@@ -1,5 +1,10 @@
 ---
 title: "Resume/CV"
+
+format:
+  html:
+    theme: lux
+    css: styles.css
 ---
 
 Test page for my resume/CV information.
