@@ -1,6 +1,11 @@
 ---
 title: "Projects"
-
+listing:
+    contents:
+      - "projects/project1.qmd"
+      - "projects/project2.qmd"
+      - "projects/project3.qmd"
+    type: grid
 format:
   html:
     theme: lux
